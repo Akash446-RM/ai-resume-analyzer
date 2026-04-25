@@ -123,7 +123,7 @@ This project is open-source and available under the MIT License.
 ##  Author
 
 **Akash RM**  
- GitHub: https://github.com/Akash446-RM  
+ GitHub: https://github.com/Akash446-RM/ai-resume-analyzer
 
 ---
 
